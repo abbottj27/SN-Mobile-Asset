@@ -12,13 +12,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-11 14:22:14</sys_created_on>
         <sys_id>e5d20820db423300e4f35608689619d5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Asset Management</sys_name>
         <sys_package display_value="Mobile Asset" source="x_11264_m_asset">28120864db023300e4f35608689619a5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mobile Asset">28120864db023300e4f35608689619a5</sys_scope>
         <sys_update_name>sys_sg_application_e5d20820db423300e4f35608689619d5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-11 14:22:14</sys_updated_on>
+        <sys_updated_on>2019-06-12 17:19:51</sys_updated_on>
     </sys_sg_application>
 </record_update>
