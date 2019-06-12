@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"Font Awesome 5 Free","Value":"f11c","FontColor":"#54AC98","BackgroundColor":"#54AC98","Name":"keyboard"}</icon>
+        <name>keyboard</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 14:22:13</sys_created_on>
+        <sys_id>19d20820db423300e4f35608689619bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>keyboard</sys_name>
+        <sys_package display_value="Mobile Asset" source="x_11264_m_asset">28120864db023300e4f35608689619a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Asset">28120864db023300e4f35608689619a5</sys_scope>
+        <sys_update_name>sys_sg_icon_19d20820db423300e4f35608689619bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 14:22:13</sys_updated_on>
+    </sys_sg_icon>
+</record_update>
