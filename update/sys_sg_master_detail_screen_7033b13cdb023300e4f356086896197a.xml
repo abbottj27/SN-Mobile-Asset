@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
     <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
         <application_roles/>
-        <available_offline>false</available_offline>
-        <data_item display_value="In Stock Assets">5d33c020db423300e4f35608689619c6</data_item>
+        <available_offline>true</available_offline>
+        <data_item display_value="Asset by Serial Number">bdc2313cdb023300e4f3560868961927</data_item>
         <description/>
         <fetch_type>not_required</fetch_type>
         <hidden>false</hidden>
-        <icon display_value="keyboard">12934c20db423300e4f35608689619f4</icon>
-        <name>In Stock Assets</name>
-        <order>20</order>
+        <icon display_value="compass">7033f13cdb023300e4f35608689619ee</icon>
+        <name>Asset Scan Lookup</name>
+        <order>10</order>
         <parent>e5d20820db423300e4f35608689619d6</parent>
         <parent_table>sys_sg_folder</parent_table>
         <roles_override/>
         <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-06-11 14:25:35</sys_created_on>
-        <sys_id>26934460db423300e4f3560868961945</sys_id>
+        <sys_created_on>2019-06-12 17:11:38</sys_created_on>
+        <sys_id>7033b13cdb023300e4f356086896197a</sys_id>
         <sys_mod_count>4</sys_mod_count>
-        <sys_name>In Stock Assets</sys_name>
+        <sys_name>Asset Scan Lookup</sys_name>
         <sys_package display_value="Mobile Asset" source="x_11264_m_asset">28120864db023300e4f35608689619a5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mobile Asset">28120864db023300e4f35608689619a5</sys_scope>
-        <sys_update_name>sys_sg_master_detail_screen_26934460db423300e4f3560868961945</sys_update_name>
+        <sys_update_name>sys_sg_master_detail_screen_7033b13cdb023300e4f356086896197a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-12 17:19:50</sys_updated_on>
+        <sys_updated_on>2019-06-12 17:22:27</sys_updated_on>
     </sys_sg_master_detail_screen>
 </record_update>

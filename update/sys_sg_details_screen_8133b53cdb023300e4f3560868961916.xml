@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>true</available_offline>
+        <data_item display_value="Asset by Serial Number">bdc2313cdb023300e4f3560868961927</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="compass">7033f13cdb023300e4f35608689619ee</icon>
+        <item_view display_value="Asset Barcode Lookup detail item view">7833b53cdb023300e4f356086896192c</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>c533753cdb023300e4f35608689619f4</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 17:11:39</sys_created_on>
+        <sys_id>8133b53cdb023300e4f3560868961916</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Mobile Asset" source="x_11264_m_asset">28120864db023300e4f35608689619a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Asset">28120864db023300e4f35608689619a5</sys_scope>
+        <sys_update_name>sys_sg_details_screen_8133b53cdb023300e4f3560868961916</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 17:22:27</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>
